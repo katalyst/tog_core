@@ -60,7 +60,7 @@ en:
         confirmed: Abuse confirmed. Contact user and request him to remove that content
         model:
           abuse: Abuse
-          subject: Subject
+          subject: Title
           subject_help: e.g. This content is a phishing attempt
           description: Description
           description_help: Be sure to include links to relevant content where appropriate and explain your concern with as much detail as possible.
